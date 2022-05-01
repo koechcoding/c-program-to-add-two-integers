@@ -1,1 +1,1 @@
-# c-program-to-add-two-integers
+# cpp-program-to-add-two-integers
